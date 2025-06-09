@@ -1,4 +1,4 @@
-<h1 align="center">Cyrian Ragot</h1>
+<h1 align="center">Hi there 👋, I'm Cyrian Ragot</h1>
 <h2 align="center">Computer Science Engineering Student</h2>
 
 <p align="center">
